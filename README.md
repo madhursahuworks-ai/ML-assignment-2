@@ -1,12 +1,13 @@
-a. Problem Statement
+**a. Problem Statement**
 
 The objective of this project is to build, evaluate, and deploy multiple Machine Learning classification models to predict whether a breast tumor is malignant (M) or benign (B) using the Breast Cancer Wisconsin (Diagnostic) dataset.
 The project demonstrates an end-to-end ML workflow including data preprocessing, model training, evaluation using multiple metrics, building an interactive Streamlit UI, and cloud deployment.
 
-b. Dataset Description
+**b. Dataset Description**
 
 Dataset: Breast Cancer Wisconsin (Diagnostic)
 Source: UCI Machine Learning Repository / Kaggle
+link : https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 Description:
 The dataset contains diagnostic measurements of breast mass tissue extracted from digitized images of fine needle aspirate (FNA) of breast masses.
@@ -21,7 +22,8 @@ Feature Type	Numeric (mean, standard error, worst values of cell nucleus propert
 Missing Values	Handled using median imputation
 Problem Type	Binary Classification
 
-c. Models & Evaluation Metrics
+**c. Models & Evaluation Metrics**
+
 The following 6 classification models were implemented and evaluated on the same dataset:
 
 Logistic Regression
@@ -49,7 +51,7 @@ Matthews Correlation Coefficient (MCC)
 | XGBoost             | 0.99     | 0.99 | 0.99      | 0.98   | 0.99 | 0.97 |
 
 
-d. Observations
+**d. Observations**
 
 | ML Model Name       | Observation about Model Performance                                                                      |
 | ------------------- | -------------------------------------------------------------------------------------------------------- |
