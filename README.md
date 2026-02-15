@@ -60,3 +60,4 @@ Matthews Correlation Coefficient (MCC)
 | Naive Bayes         | Fast and simple but assumes feature independence, which limits performance.                              |
 | Random Forest       | Excellent performance due to ensemble averaging; robust to noise and overfitting.                        |
 | XGBoost             | Best overall performance with high accuracy and MCC; powerful gradient boosting ensemble.                |
+
