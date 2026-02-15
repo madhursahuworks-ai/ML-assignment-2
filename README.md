@@ -1,7 +1,6 @@
 **a. Problem Statement**
 
-The objective of this project is to build, evaluate, and deploy multiple Machine Learning classification models to predict whether a breast tumor is malignant (M) or benign (B) using the Breast Cancer Wisconsin (Diagnostic) dataset.
-The project demonstrates an end-to-end ML workflow including data preprocessing, model training, evaluation using multiple metrics, building an interactive Streamlit UI, and cloud deployment.
+The objective of this project is to build, evaluate, and deploy multiple Machine Learning classification models to predict whether a breast tumor is malignant (M) or benign (B) using the Breast Cancer Wisconsin (Diagnostic) dataset. The project demonstrates an end-to-end ML workflow including data preprocessing, model training, evaluation using multiple metrics, building an interactive Streamlit UI, and cloud deployment.
 
 **b. Dataset Description**
 
